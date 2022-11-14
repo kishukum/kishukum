@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kishukum
+- 👀 I’m interested in coding related to c linux
+- 🌱 I’m currently learning c linux
